@@ -1,107 +1,91 @@
-🧰 SENAI – MAPAS DE RISCO
-Aluno: Gabriel Ehrat Fagundes
-📍 Jaraguá do Sul – 2024
-👨‍🏫 Professor: Luciano
-📚 Disciplina: SSST – Segurança e Saúde no Trabalho
+✨ SENAI - Mapas de Risco
 
-📑 Sumário
-✏️ Introdução ................................................. 1
+Aluno: Gabriel Ehrat FagundesCidade: Jaraguá do Sul - 2024Disciplina: SSST (Segurança e Saúde no Trabalho)Professor: Luciano
 
-🏫 Inspeção pelo Senai .................................. 2
+✨ Sumário
 
-📌 Definição de Mapa de Risco ..................... 3
+Introdução
 
-🧵 Criação de mapa para sala de costura .... 4
+Inspeção pelo SENAI
 
-✅ Conclusão ................................................. 5
+Definição de Mapa de Risco
 
-📚 Referências .............................................. 6
+Criação de Mapa - Sala de Costura
 
-✏️ Introdução
-Neste trabalho, apresentamos nossa análise e opinião sobre os riscos observados no SENAI, incluindo os EPCs (Equipamentos de Proteção Coletiva), como:
+Conclusão
 
-Corrimãos
+Referências
 
-Escadas e rampas antiderrapantes
+Introdução
 
-Botões de alarme de emergência
+Neste trabalho abordaremos a importância dos mapas de risco, destacando sua aplicação em ambientes educacionais como o SENAI. Apresentaremos uma inspeção realizada nas instalações da escola, apontando os EPCs existentes (como corrimãos, rampas antiderrapantes e extintores), e finalizaremos com a elaboração de um mapa de risco específico para a sala de corte e costura.
 
-Extintores
+Inspeção pelo SENAI
 
-Placas de saída de emergência
+Após uma inspeção nos corredores, salas, rampas e escadas do SENAI, observamos:
 
-Finalizamos com a criação de um mapa de risco para a sala de corte e costura.
+Presença de corrimãos e revestimentos antiderrapantes;
 
-🏫 Inspeção pelo SENAI
-Durante a inspeção nas salas, corredores e rampas, observamos:
+Extintores de incêndio em todas as salas e corredores;
 
-✅ Escadas com corrimão e antiderrapantes
-✅ Extintores em todas as salas e corredores
-✅ Placas de saída de emergência e mapas de riscos
-✅ Botões de alarme de emergência
+Placas de sinalização de saída de emergência;
 
-⚠️ No entanto, identificamos alguns problemas:
+Mapas de risco expostos em diversos ambientes;
 
-❌ Falta de redes de guarda-corpo em corredores do 2º andar
+Botões de alarme de emergência acessíveis.
 
-❌ Corredor do bloco A fica molhado em dias de chuva, gerando risco de escorregamento
+Contudo, registramos alguns pontos de melhoria:
 
-❌ Sala de usinagem sem mapa de risco
+Ausência de redes de guarda-corpo em corredores do segundo andar;
 
-❌ Mapa da sala de costura não indica riscos de ruído e vibração
+Piso escorregadio em um corredor do bloco A em dias de chuva;
 
-📌 Definição de Mapa de Risco
-📍 Um mapa de risco é uma representação gráfica que mostra os riscos presentes em um ambiente de trabalho.
+A sala de usinagem não possui mapa de risco visível;
 
-Esses riscos podem ser:
+O mapa de risco da sala de corte e costura não contempla riscos de ruídos e vibrações.
 
-☣️ Químicos
+Definição de Mapa de Risco
 
-🔊 Físicos (ruído, calor, vibração)
+O mapa de risco é uma representação gráfica dos riscos existentes em um ambiente de trabalho. Esses riscos são categorizados em:
 
-🦠 Biológicos
+⚡ Riscos Físicos (ruído, calor, vibrações)
 
-🧍‍♂️ Ergonômicos
+⚠ Riscos Químicos (poeiras, vapores, fumos)
 
-⚠️ De acidente
+🦠 Riscos Biológicos (fungos, bactérias)
 
-📏 Os riscos são indicados por:
+🔇 Riscos Ergonômicos (postura, jornada)
 
-Cores (tipo de risco)
+⚖ Riscos de Acidente (choques, cortes, quedas)
 
-Tamanhos de círculos (intensidade)
+A representação é feita com cores (tipo de risco) e tamanhos de círculo (grau de intensidade), sendo obrigatório conforme a NR 5 (CIPA) desde 1994.
 
-Número de trabalhadores expostos
+Criação de Mapa - Sala de Costura
 
-🧾 Obrigatório desde 1994 pela NR-5 (CIPA)
+Com base na inspeção, elaboramos um novo mapa de risco para a sala de corte e costura, incluindo:
 
-🧵 Criação de um Mapa de Risco – Sala de Corte e Costura
-📍 Baseando-se nas observações da inspeção, criamos um novo mapa de risco para a sala de costura, incluindo os riscos não indicados anteriormente, como:
+🔊 Ruído de máquinas;
 
-🔊 Ruídos (máquinas de costura)
+🔄 Vibrações mecânicas constantes;
 
-💢 Vibrações
+✂ Cortes e perfurações com tesouras e objetos cortantes;
 
-✂️ Risco de cortes
+⚡ Choques elétricos por equipamentos;
 
-🔌 Choque elétrico (tomadas, máquinas)
+❄ Circulação com risco de tropeço por fios ou extensões.
 
-🚪 Acidentes por circulação de pessoas ou fios no chão
+Objetivo: melhorar a prevenção de acidentes e conscientizar os usuários da sala sobre os principais riscos.
 
-🎯 Objetivo: alertar os trabalhadores sobre os riscos reais e permitir ações preventivas mais eficazes.
+Conclusão
 
-📌 [Sugestão: inserir um desenho do mapa de risco aqui, se for impresso ou PDF]
+Concluímos que o SENAI possui boas práticas de prevenção com uso adequado de EPCs e estrutura segura. No entanto, alguns detalhes podem ser aprimorados com sinalizações mais completas e atualização de mapas de risco.
 
-✅ Conclusão
-Com base na análise feita no SENAI, concluímos que:
+O mapa de risco é uma ferramenta fundamental para evitar acidentes e garantir um ambiente educacional mais seguro.
 
-✅ A instituição está bem equipada e estruturada em relação à segurança coletiva.
+Referências
 
-⚠️ Pequenas falhas, como a falta de redes, mapa atualizado ou sinalização em dias chuvosos, devem ser corrigidas.
+https://www.ib.unicamp.br/comissoes/cipa_mapa
 
-🧠 O mapa de risco é essencial para reduzir acidentes, orientar os colaboradores e manter o ambiente de trabalho seguro.
+https://cipa.fmrp.usp.br/mapa-de-risco
 
-📚 Referências
-🔗 https://www.ib.unicamp.br/comissoes/cipa_mapa
-🔗 https://cipa.fmrp.usp.br/mapa-de-risco
-🔗 https://www.ufrgs.br/cincolinhajr/mapas-de-risco-importancia-e-obrigatoriedade
+https://www.ufrgs.br/cincolinhajr/mapas-de-risco-importancia-e-obrigatoriedade
